@@ -1,0 +1,3 @@
+tesseract-ocr
+tesseract-ocr-script-latn
+poppler-utils
